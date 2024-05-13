@@ -60,6 +60,7 @@ button[type="submit"] {
     box-sizing: border-box;
     border-radius: 7px;
     font-weight: 500;
+    font-size: large;
     font-family: "Ubuntu Sans", sans-serif;
 }
 
