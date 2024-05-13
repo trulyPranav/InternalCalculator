@@ -52,3 +52,16 @@ function calculateAgain() {
 
 document.getElementById('calculateAgain').addEventListener('click', calculateAgain);
 document.getElementById('marksForm').addEventListener('submit', calculateTotal);
+
+document.addEventListener("DOMContentLoaded", function () {
+    const showDevelopersButton = document.getElementById("showDevelopers");
+    const developerList = document.getElementById("developerList");
+
+    showDevelopersButton.addEventListener("click", function () {
+        if (developerList.style.display === "none") {
+            developerList.style.display = "block";
+        } else {
+            developerList.style.display = "none";
+        }
+    });
+});
