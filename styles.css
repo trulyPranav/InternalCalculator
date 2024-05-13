@@ -21,6 +21,11 @@ body {
     margin-top: 20px;
 }
 
+.section sub {
+    font-size: 0.7em;
+    vertical-align: super;
+}
+
 form {
     text-align: center;
 }
