@@ -46,7 +46,6 @@ label {
 input[type="number"] {
     width: calc(100% - 28px);
     padding: 8px;
-    margin-top: 5px;
     border-radius: 7px;
 }
 
