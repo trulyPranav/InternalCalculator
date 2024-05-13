@@ -111,7 +111,7 @@ button[type="submit"]:hover {
 }
 
 #showDevelopers {
-    margin-top: 2.5rem;
+    margin-top: 1rem;
     background-color: #007bff;
     color: white;
     border: none;
@@ -155,7 +155,7 @@ button[type="submit"]:hover {
     }
 
     #showDevelopers {
-        width: 100%;
+        width: 60%;
     }
 
     header h1 {
