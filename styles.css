@@ -131,10 +131,15 @@ button[type="submit"]:hover {
     padding: 0;
     margin-top: 10px;
     display: none;
+    list-style: none;
+    align-items: center;
 }
 
 #developerList li {
     margin-bottom: 5px;
+    display: inline-block;
+    align-items: center;
+    color: #007bff;
 }
 
 #developerList a {
