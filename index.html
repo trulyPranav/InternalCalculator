@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+    <div id="container">
     <div class="main">
         <header>
             <h1>
@@ -16,10 +17,10 @@
         <div class="section">
             <form id="marksForm">
                 <label for="series1">Enter 1<sub>st</sub> Series Marks out of 50:</label><br>
-                <input type="number" id="series1" name="series1" required><br>
+                <input type="number" step="0.01" id="series1" name="series1" required><br>
                 <br>
                 <label for="series2">Enter 2<sub>nd</sub> Series marks out of 50:</label><br>
-                <input type="number" id="series2" name="series2" required><br>
+                <input type="number" step="0.01" id="series2" name="series2" required><br>
                 <br>
                 <label for="attendance">Enter Attendance Percentage out of 100:</label><br>
                 <input type="number" id="attendance" name="attendance" required><br>
@@ -29,9 +30,13 @@
                 <br>
                 <button type="submit">Calculate</button>
               </form>
-        </div>
-        <div id="result" class="result"></div> <!-- result inte div ithh -->
+        </div>    
     </div>
+    </div>
+    <div id="popup" class="popup">
+        <div id="resultText"></div>
+        <button id="calculateAgain">Calculate Another Internal Mark</button>
+    </div>    
     <script src="scripts.js"></script>
 </body>
 </html>
