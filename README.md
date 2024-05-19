@@ -10,7 +10,7 @@ Required values are:
 Input the above values and there you go, your Internal Marks will be displayed!
 
 ## Working:
-![image](assets/asset1.jpeg)
-![image](assets/asset2.jpeg)
-![image](assets/asset3.jpeg)
+<img src="assets/asset1.jpeg">
+<img src="assets/asset2.jpeg">
+<img src="assets/asset3.jpeg">
 
