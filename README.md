@@ -8,3 +8,9 @@ Required values are:
 - Overall Assignment Score out of 15
 
 Input the above values and there you go, your Internal Marks will be displayed!
+
+## Working:
+![image](assets/asset1.jpeg)
+![image](assets/asset2.jpeg)
+![image](assets/asset3.jpeg)
+
