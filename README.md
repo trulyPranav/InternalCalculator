@@ -10,7 +10,5 @@ Required values are:
 Input the above values and there you go, your Internal Marks will be displayed!
 
 ## Working:
-<img src="assets/asset1.jpeg">
-<img src="assets/asset2.jpeg">
-<img src="assets/asset3.jpeg">
+<img src="assets/asset1.jpeg" height=500>  <img src="assets/asset2.jpeg" height=500>  <img src="assets/asset3.jpeg" height=500>
 
