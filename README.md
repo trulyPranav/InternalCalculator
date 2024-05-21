@@ -12,3 +12,7 @@ Input the above values and there you go, your Internal Marks will be displayed!
 ## Working:
 <img src="assets/asset1.jpeg" height=500>  <img src="assets/asset2.jpeg" height=500>  <img src="assets/asset3.jpeg" height=500>
 
+## Contribution and Support 
+Contribute to the Project by Forking and Creating a PR. 
+<br>
+Support the project by Starring the Repo🌟. It'll surely motivate us!
